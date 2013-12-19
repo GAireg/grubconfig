@@ -1,4 +1,4 @@
 grubconfig
 ==========
 
-My Grub Configuration support for live cds
+My Grub configuration including some support for live CDs and Windows
